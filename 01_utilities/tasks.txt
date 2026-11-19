@@ -1,0 +1,4 @@
+Learn python||done
+learn linux||done
+learn python||not_done
+lear python||not_done
